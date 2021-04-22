@@ -1,1 +1,2 @@
-Le changelog est vide pour l'instant.
+Version 0.0.1 : Première mise à jour de test.
+Version 0.0.0 : Création du Launcher, ca marche omg :)
