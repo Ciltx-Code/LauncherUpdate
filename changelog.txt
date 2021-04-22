@@ -1,2 +1,3 @@
-Version 0.0.1 : Première mise à jour de test.
-Version 0.0.0 : Création du Launcher, ca marche omg :)
+Version 0.0.1 --> Première mise à jour de test.
+
+Version 0.0.0 --> Création du Launcher, ca marche omg :)
