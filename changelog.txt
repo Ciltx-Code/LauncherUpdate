@@ -1,3 +1,7 @@
-Version 0.0.1 --> Première mise à jour de test.
+version 0.0.3 --> Ajout des monstres, correction de bugs et ajout de nouvelles fonctionnalités
 
-Version 0.0.0 --> Création du Launcher, ca marche omg :)
+version 0.0.2 --> Ajout des texture des personnages et du terrain
+
+Version 0.0.1 --> Ajout des fonctionnalitées de base (déplacement et saut)
+
+Version 0.0.0 --> Création du Launcher.
